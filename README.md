@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nesgc&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Nesgc" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=Nesgc&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&layout=compact" alt="GitHub Stats for Nesgc" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nesgc&theme=jolly" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nesgc&theme=transparent" width="700">
