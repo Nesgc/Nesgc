@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="img/banner.png" width="700">
+<img src="img/banner.png" width="1300">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nesgc&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&layout=compact" alt="GitHub Stats for Nesgc" width="700">
 
