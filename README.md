@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 
 I'm a **Backend Developer & Data Analyst** with 3+ years of experience building scalable systems and data pipelines. Passionate about turning complex problems into efficient solutions through clean code and data-driven approaches.
 
-&nbsp;
-
-[🔗 View My Portfolio Web](https://yourportfolio.url)  <!-- ADD YOUR ACTUAL PORTFOLIO URL HERE -->
-
+[🔗 View My Portfolio Web](https://nestorgarcia.vercel.app/)  
 &nbsp;
 
 ## 🛠 &nbsp;Technical Expertise
@@ -67,7 +64,7 @@ I'm a **Backend Developer & Data Analyst** with 3+ years of experience building 
 [![POS System](https://img.shields.io/badge/-Retail_POS_System-2d2d2d?style=flat&logo=laravel&logoColor=white)](https://github.com/Nesgc/SalesSystemLivewireV3)  
 Full-featured sales platform with inventory management (Laravel/Livewire)
 
-[![Trading Backtester](https://img.shields.io/badge/-Trading_Backtester-2d2d2d?style=flat&logo=python&logoColor=white)](https://github.com/Nesgc/your-repo)  
+[![Trading Backtester](https://img.shields.io/badge/-Trading_Backtester-2d2d2d?style=flat&logo=python&logoColor=white)](https://github.com/Nesgc/BacktestingStrategies)  
 Python/Streamlit app processing 10,000+ market data points to backtest trading strategies
 
 [![Athena Toolkit](https://img.shields.io/badge/-Athena_Internal_Tool-2d2d2d?style=flat&logo=flask&logoColor=white)](#)  
